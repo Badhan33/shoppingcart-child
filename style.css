@@ -15,3 +15,12 @@
 .top-bar {
 	background-color: #F3F4F8;
 }
+
+.header-right {
+	min-width: 73%;
+}
+
+#search-box {
+	float: left;
+	width: 75%;
+}
