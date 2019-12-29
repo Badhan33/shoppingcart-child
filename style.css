@@ -39,3 +39,10 @@
     padding-left: 0;
     width: 30%;
 }
+
+.shop-banner {
+	text-align: center;
+    margin-bottom: 30px;
+    max-width: 1300px;
+    margin: 0 auto 30px;
+}

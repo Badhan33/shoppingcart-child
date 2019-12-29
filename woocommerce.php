@@ -16,6 +16,9 @@ get_header();
 	if( empty( $layout ) || is_archive() || is_search() || is_home() ) {
 		$layout = 'default';
 	} ?>
+	<div class="shop-banner">
+		<img src="http://placehold.it/1300x250" />
+	</div>
 <div class="wrap">
 <?php 
 if( 'default' == $layout ) { //Settings from customizer
